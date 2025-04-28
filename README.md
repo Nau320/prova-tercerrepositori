@@ -3,8 +3,8 @@
 * xxx "Punt"
 
 |xxx|xxx| "Tabla"
-|xxx|xxx|
 |----|----| 
+|XXX|XXXX1|
 
 "Tabla negrita"
 
