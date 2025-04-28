@@ -10,7 +10,7 @@
 
 "Tabla"
 
-![xxx](xxx.png) "Imatge"
+![xxx](abcd.png) "Imatge"
 [XXX](https://) "link"
 **Negreta** i *cursiva*
 .
