@@ -2,7 +2,9 @@
 1. xxx "Numeral"
 * xxx "Punt"
 
-|xxx|xxx| "Tabla"
+"Tabla"
+
+|xxx|xxx|
 |----|----| 
 |XXX|XXXX1|
 
