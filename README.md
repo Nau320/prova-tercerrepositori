@@ -2,14 +2,15 @@
 1. xxx "Numeral"
 * xxx "Punt"
 
-"Tabla"
+"Tabla Negrita"
 
 |xxx|xxx|
 |----|----| 
 |XXX|XXXX1|
 
-"Tabla negrita"
+"Tabla"
 
 ![xxx](xxx.png) "Imatge"
 [XXX](https://) "link"
 **Negreta** i *cursiva*
+.
